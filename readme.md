@@ -14,7 +14,9 @@
 <img width="80%" src="https://github.com/youlajang/10-000-miles-of-black-dragon/assets/137852127/e5075d3c-7158-4d52-80ec-a7747552fd34"/>
 
 * **`dataset`** 폴더에 위성 이미지 압축 파일 압축 해제
-* **`train.ipynb`** : 모델 train 
+* **`train_code`** : 모델 train 코드
+* **`models`** : 학습된 모델 다운로드 (구글드라이브 링크) 
+
 * **`run.py`** : 테스트를 실행
 
 * **함수 정의** 
