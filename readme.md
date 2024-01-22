@@ -1,5 +1,5 @@
 # 🚩2023년도 제주 위성데이터 활용 경진대회 
-* **대회 개요** :  [링크](https://aifactory.space/task/2709/overview)
+* **대회 개요** : 위성데이터를 활용하여 제주섬의 문제를 발견하고 이를 해결할 수 있는 아이디어 및 사업모델 제안 [링크](https://aifactory.space/task/2709/overview)
 
 
 
