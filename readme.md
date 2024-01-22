@@ -41,7 +41,7 @@
             ['left_3', 'center_3', 'right_3']        
     """
     
-    # 9개 구역 중 예측 원하는 구역을 선택한
+    # 9개 구역 중 예측 원하는 구역을 선택
     loc = 'center_2'
     split_image = os.path.join('split_image', f'{loc}.tif')
     
